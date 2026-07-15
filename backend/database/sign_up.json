@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "test@example.com",
+    "username": "testuser",
+    "fullname": "Test User",
+    "password_hash": "2bb80d537b1da3e38bd30361aa855686bde0eacd7162fef6a25fe97bf527a25b"
+  },
+  {
+    "id": 2,
+    "email": "iamsrizon122@gmail.com",
+    "username": "srizon12",
+    "fullname": "NMS SRiZON",
+    "password_hash": "c75d1a8656c434d32c695facb4cf32e8f8e614d6547be748534f5923b6dd0c44"
+  },
+  {
+    "id": 3,
+    "email": "srizonboos@gmail.com",
+    "username": "srizonbro",
+    "fullname": "Nur Mohammad Srizon",
+    "password_hash": "c75d1a8656c434d32c695facb4cf32e8f8e614d6547be748534f5923b6dd0c44"
+  }
+]

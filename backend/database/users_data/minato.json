@@ -1,0 +1,14 @@
+{
+    "monthly_progressed": {
+        "sub": "Creating an ai agent",
+        "details": {
+            "frontend": "complete",
+            "backend": "complete",
+            "database": "complete",
+            "core": {
+                "dsa": "complete",
+                "ml": "complete"
+            }
+        }
+    }
+}

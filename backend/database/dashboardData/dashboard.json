@@ -1,0 +1,38 @@
+{
+  "users": {
+    "guest": {
+      "main_goal": {
+        "goal": "Set your first goal",
+        "goal_time": "Today",
+        "goal_desc": "Add your main goal here",
+        "goal_analytications": {
+          "status": "draft"
+        }
+      }
+    },
+    "notsrizon@gmail.com": {
+      "main_goal": {
+        "goal": "Building an ai agent",
+        "goal_time": "dadf",
+        "goal_desc": "adadfa",
+        "goal_analytications": {}
+      }
+    },
+    "srizonboos@gmail.com": {
+      "main_goal": {
+        "goal": "Building an ai agent",
+        "goal_time": "10 Days",
+        "goal_desc": "i will build an ai angent with in next 30 days",
+        "goal_analytications": {}
+      }
+    },
+    "anisulislam2010@gmail.com": {
+      "main_goal": {
+        "goal": null,
+        "goal_time": "",
+        "goal_desc": "",
+        "goal_analytications": {}
+      }
+    }
+  }
+}
